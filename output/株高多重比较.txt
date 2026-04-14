@@ -1,0 +1,5 @@
+   Plant_Height groups
+N2     26.63333      a
+N3     24.00000      b
+N1     22.36667      c
+N0     18.20000      d
